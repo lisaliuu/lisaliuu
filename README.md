@@ -12,8 +12,8 @@
   🍃 Avid reader and coffee connoisseur
   
   <h3>Personal Projects</h3>
-  🍃 <a href="https://github.com/zineanteoh/vinkybox-app">CarDores</a><br>
-  🍃 <a href="https://github.com/zineanteoh/vinkybox-app">Maze-Solving Robot </a><br>
+  🍃 <a href="https://github.com/lisaliuu/CarDores">CarDores</a><br>
+  🍃 <a href="https://github.com/lisaliuu/AVR-Microcontrollers">Maze-Solving Robot </a><br>
   
   </p>
 
