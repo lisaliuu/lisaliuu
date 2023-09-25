@@ -13,7 +13,7 @@
   
   <h3>Personal Projects</h3>
   🍃 <a href="https://github.com/lisaliuu/CarDores">CarDores</a>: a web application for university ridesharing<br>
-  🍃 <a href="https://github.com/lisaliuu/AVR-Microcontrollers">Maze-Solving Robot</a>: embedded software deployed on a robot to solve mazes<br>
+  🍃 <a href="https://github.com/lisaliuu/AVR-Microcontrollers">Maze-Solving Robot</a>: embedded software for a robot to solve mazes<br>
   🍃 <a href="https://github.com/lisaliuu/Mushroom-Mayhem">Mushroom Mayhem </a>: a 2D platformer game<br>
   
   </p>
