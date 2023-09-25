@@ -8,12 +8,13 @@
   <h3>About Me</h3>
   🍃 Electrical & Computer Engineering '25 @ Vanderbilt University <br>
   🍃 Current developer @ <a href="https://github.com/vandyhacks">VandyHacks</a> <br>
-  🍃 Previous Undergraduate research assistant @ <a href="https://i24motion.org/">I24-MOTION</a></li>, SWE Intern @ <a href="https://www.ni.com/en.html">NI</a> <br></li>
+  🍃 Previous undergraduate research assistant @ <a href="https://i24motion.org/">I24-MOTION</a></li>, SWE Intern @ <a href="https://www.ni.com/en.html">NI</a> <br></li>
   🍃 Avid reader and coffee connoisseur
   
   <h3>Personal Projects</h3>
-  🍃 <a href="https://github.com/lisaliuu/CarDores">CarDores</a><br>
-  🍃 <a href="https://github.com/lisaliuu/AVR-Microcontrollers">Maze-Solving Robot </a><br>
+  🍃 <a href="https://github.com/lisaliuu/CarDores">CarDores</a>: a web application for university ridesharing<br>
+  🍃 <a href="https://github.com/lisaliuu/AVR-Microcontrollers">Maze-Solving Robot</a>: embedded software deployed on a robot<br>
+  🍃 <a href="https://github.com/lisaliuu/Mushroom-Mayhem">Mushroom Mayhem </a>: a 2D platformer game<br>
   
   </p>
 
