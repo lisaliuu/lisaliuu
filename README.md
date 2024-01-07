@@ -12,7 +12,7 @@
   🍃 Avid reader and coffee connoisseur
   
   <h3>Projects</h3>
-  🍃 <a href="https://github.com/lisaliuu/advent-of-code-2023">2023 Advent of Code</a>: daily puzzles [in progress]<br>
+  🍃 <a href="https://github.com/lisaliuu/chip8-emulator">Chip8 Emulator</a>: Chip8 emulator written in C++ *in progress*<br>
   🍃 <a href="https://github.com/lisaliuu/CarDores">CarDores</a>: a web application for university ridesharing<br>
   🍃 <a href="https://github.com/lisaliuu/AVR-Microcontrollers">Maze-Solving Robot</a>: embedded software for a robot to solve mazes<br>
   🍃 <a href="https://github.com/lisaliuu/Mushroom-Mayhem">Mushroom Mayhem </a>: a 2D platformer game<br>
