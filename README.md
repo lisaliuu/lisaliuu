@@ -6,7 +6,7 @@
   <p>https://github.com/lisaliuu/lisaliuu/blob/main/README.md
 
   <h3>About Me</h3>
-  🍃 Electrical & Computer Engineering, Computer Science '25 @ Vanderbilt University <br>
+  🍃 Electrical & Computer Engineering, Computer Science '25 @ Vanderbilt <br>
   🍃 Current developer @ <a href="https://github.com/vandyhacks">VandyHacks</a> <br>
   🍃 Previous undergraduate research assistant @ <a href="https://i24motion.org/">I24-MOTION</a></li>, SWE Intern @ <a href="https://www.ni.com/en.html">NI</a> <br></li>
   🍃 Avid reader and coffee connoisseur
